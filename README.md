@@ -3,7 +3,7 @@ Here I'll upload some solutions to the 60 days of kata challenge by [Codewars](h
 1. Everything is solved on C++.
 2. I'm focused on thinking algorithms rather than just using C++ functions to achieve a short answer.
 
-##Little bit bout me
+## Little bit bout me
 I'm just a bored student who wants to get better at coding by just having fun.
 
 ## Table of contents
