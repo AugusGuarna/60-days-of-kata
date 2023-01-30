@@ -10,3 +10,4 @@ I'm just a bored student who wants to get better at coding by just having fun.
 Problems will be listed by name following no particular order.
 1. [Odd or even?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/odd-or-even.md)
 2. [Remove anchor from URL](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/remove-anchor-from-URL.md)
+3. [Sequence sum](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sequence-sum.md)
