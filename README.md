@@ -12,4 +12,4 @@ Problems will be listed by name following no particular order.
 2. [Remove anchor from URL](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/remove-anchor-from-URL.md)
 3. [Sequence sum](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sequence-sum.md)
 4. [Sum of numbers](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-numbers.md)
-5. [Sum of angles]()
+5. [Sum of angles](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-angles.md)
