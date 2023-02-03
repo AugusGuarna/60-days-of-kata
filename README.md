@@ -14,3 +14,4 @@ Problems will be listed by name following no particular order.
 4. [Sum of numbers](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-numbers.md)
 5. [Sum of angles](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-angles.md)
 6. [Maximum multiple](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/maximum-multiple.md)
+7. [Who likes it?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/who-likes-it.md)
