@@ -15,3 +15,9 @@ Problems will be listed by name following no particular order.
 5. [Sum of angles](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-angles.md)
 6. [Maximum multiple](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/maximum-multiple.md)
 7. [Who likes it?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/who-likes-it.md)
+8. [Find the parity outlier](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/find-the-parity-outlier.md)
+9. [Sum of parts](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-parts.md) 
+10. [Create phone number](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/create-phone-number.md)
+11. [Does my number look big in this?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/does-my-number-look-big-on-this.md)
+12. Multiples of 3 or 5 
+13. 
