@@ -19,7 +19,7 @@ Problems will be listed by name following no particular order.
 9. [Sum of parts](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-parts.md) 
 10. [Create phone number](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/create-phone-number.md)
 11. [Does my number look big in this?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/does-my-number-look-big-on-this.md)
-12. [Multiples of 3 or 5]() 
+12. [Multiples of 3 or 5](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/multiples-of-3-or-5.md) 
 13. Scramblies
 14. Moving zeros to the end
 15. Greed is good
