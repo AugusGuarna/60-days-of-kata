@@ -23,3 +23,5 @@ Problems will be listed by name following no particular order.
 13. Scramblies
 14. Moving zeros to the end
 15. Greed is good
+16. Nth-Fibonacci
+17. Rot13
