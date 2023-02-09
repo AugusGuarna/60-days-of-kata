@@ -20,8 +20,8 @@ Problems will be listed by name following no particular order.
 10. [Create phone number](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/create-phone-number.md)
 11. [Does my number look big in this?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/does-my-number-look-big-on-this.md)
 12. [Multiples of 3 or 5](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/multiples-of-3-or-5.md) 
-13. Scramblies
-14. Moving zeros to the end
+13. [Scramblies](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/scramblies.md)
+14. [Moving zeros to the end](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/moving-zeros-to-the-end.md)
 15. Greed is good
 16. Nth-Fibonacci
 17. Rot13
