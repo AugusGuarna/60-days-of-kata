@@ -22,6 +22,7 @@ Problems will be listed by name following no particular order.
 12. [Multiples of 3 or 5](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/multiples-of-3-or-5.md) 
 13. [Scramblies](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/scramblies.md)
 14. [Moving zeros to the end](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/moving-zeros-to-the-end.md)
-15. Greed is good
+15. [Greed is good](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/greed-is-good.md)
 16. Nth-Fibonacci
 17. Rot13
+18. Hamming distance
