@@ -23,6 +23,15 @@ Problems will be listed by name following no particular order.
 13. [Scramblies](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/scramblies.md)
 14. [Moving zeros to the end](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/moving-zeros-to-the-end.md)
 15. [Greed is good](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/greed-is-good.md)
-16. Nth-Fibonacci
-17. Rot13
-18. Hamming distance
+16. [Nth-Fibonacci](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/nth-fibonacci.md)
+17. [Rot13](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/rot-13.md)
+18. [Hamming distance](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/hamming-distance.md)
+19. [Sum of cubes](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-cubes.md)
+20. [Sum of minimums]()
+21. [Cat and shelves]()
+22. [Is n divisible by y?]()
+23. [Roman numbers decoder]()
+24. Square(n) sum
+25. Tribonacci sequence
+26. Does array x contain all values within array y?
+27. Multiplication table
