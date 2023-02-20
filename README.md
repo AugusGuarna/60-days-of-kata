@@ -31,7 +31,9 @@ Problems will be listed by name following no particular order.
 21. [Cat and shelves]()
 22. [Is n divisible by y?]()
 23. [Roman numbers decoder]()
-24. Square(n) sum
+24. [Square(n) sum]()
 25. Tribonacci sequence
 26. Does array x contain all values within array y?
 27. Multiplication table
+28. Mexican Wave
+29. Caculate the number of inversions in an array
