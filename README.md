@@ -27,11 +27,11 @@ Problems will be listed by name following no particular order.
 17. [Rot13](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/rot-13.md)
 18. [Hamming distance](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/hamming-distance.md)
 19. [Sum of cubes](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-cubes.md)
-20. [Sum of minimums]()
-21. [Cat and shelves]()
-22. [Is n divisible by y?]()
-23. [Roman numbers decoder]()
-24. [Square(n) sum]()
+20. [Sum of minimums](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/sum-of-minimums.md)
+21. [Cat and shelves](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/cats-and-shelves.md)
+22. [Is n divisible by y?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/is-n-divisible-by-x-and-y.md)
+23. [Roman numbers decoder](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/roman-numerals-decoder.md)
+24. [Square(n) sum](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/square-n-sum.md)
 25. Tribonacci sequence
 26. Does array x contain all values within array y?
 27. Multiplication table
