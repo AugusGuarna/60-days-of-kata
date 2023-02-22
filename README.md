@@ -32,8 +32,8 @@ Problems will be listed by name following no particular order.
 22. [Is n divisible by y?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/is-n-divisible-by-x-and-y.md)
 23. [Roman numbers decoder](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/roman-numerals-decoder.md)
 24. [Square(n) sum](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/square-n-sum.md)
-25. [Tribonacci sequence]
-26. [Does array x contain all values within array y?]
+25. [Tribonacci sequence](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/tribonacci.md)
+26. [Does array x contain all values within array y?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/does-array-x-contain-all-values-within-array-y.md)
 27. Multiplication table
 28. Mexican Wave
 29. Caculate the number of inversions in an array
