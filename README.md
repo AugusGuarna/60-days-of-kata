@@ -34,7 +34,7 @@ Problems will be listed by name following no particular order.
 24. [Square(n) sum](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/square-n-sum.md)
 25. [Tribonacci sequence](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/tribonacci.md)
 26. [Does array x contain all values within array y?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/does-array-x-contain-all-values-within-array-y.md)
-27. [Multiplication table]()
+27. [Multiplication table](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/multiplication-table.md)
 28. Mexican Wave
 29. Caculate the number of inversions in an array
 30. Adding big numbers
