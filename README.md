@@ -43,3 +43,4 @@ Problems will be listed by name following no particular order.
 33. Alternate Capitalization
 34. Fix string case
 35. Indexed capitalization
+36. Josephus survivor
