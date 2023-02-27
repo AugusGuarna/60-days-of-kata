@@ -35,9 +35,9 @@ Problems will be listed by name following no particular order.
 25. [Tribonacci sequence](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/tribonacci.md)
 26. [Does array x contain all values within array y?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/does-array-x-contain-all-values-within-array-y.md)
 27. [Multiplication table](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/multiplication-table.md)
-28. Mexican Wave
-29. Caculate the number of inversions in an array
-30. Adding big numbers
+28. [Mexican Wave](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/mexican-wave.md)
+29. [Caculate the number of inversions in an array](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/calculate-the-number-of-inversions-in-an-array.md)
+30. [Adding big numbers](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/adding-big-numbers.md)
 31. Josephus permutation
 32. Looking for a benefactor
 33. Alternate Capitalization
