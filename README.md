@@ -40,3 +40,6 @@ Problems will be listed by name following no particular order.
 30. Adding big numbers
 31. Josephus permutation
 32. Looking for a benefactor
+33. Alternate Capitalization
+34. Fix string case
+35. Indexed capitalization
