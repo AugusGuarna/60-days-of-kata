@@ -39,8 +39,9 @@ Problems will be listed by name following no particular order.
 29. [Caculate the number of inversions in an array](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/calculate-the-number-of-inversions-in-an-array.md)
 30. [Adding big numbers](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/adding-big-numbers.md)
 31. [Josephus permutation](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/josephus-permutation.md)
-32. Looking for a benefactor
+32. [Looking for a benefactor]()
 33. Alternate Capitalization
 34. Fix string case
 35. Indexed capitalization
 36. Josephus survivor
+37. Arithmetic progression
