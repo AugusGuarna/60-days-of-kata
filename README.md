@@ -41,7 +41,7 @@ Problems will be listed by name following no particular order.
 31. [Josephus permutation](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/josephus-permutation.md)
 32. [Looking for a benefactor](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/looking-for-a-benefactor.md)
 33. [Alternate Capitalization](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/alternate-capitalization.md)
-34. Fix string case
+34. [Fix string case](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/fix-string-case.md)
 35. Indexed capitalization
 36. Josephus survivor
 37. Arithmetic progression
