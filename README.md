@@ -46,3 +46,4 @@ Problems will be listed by name following no particular order.
 36. Josephus survivor
 37. Arithmetic progression
 38. Trimming a string
+39. Hanoi Record
