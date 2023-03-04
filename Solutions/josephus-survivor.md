@@ -25,7 +25,7 @@ The above link about the "base" kata description will give you a more thorough i
 
 ## Idea
 
-To solve the problem we're going to first create a vector with all the people (vector.size() = n) and then just like in the [previous Josephus problem](https://www.codewars.com/kata/5550d638a99ddb113e0000a2) we're going to delete elements from the vector but this time until its lenght is equal to 1.
+To solve the problem we're going to first create a vector with all the people (vector.size() = n) and then just like in the [previous Josephus problem](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/josephus-permutation.md) we're going to delete elements from the vector but this time until its lenght is equal to 1.
 
 ### Code
 
