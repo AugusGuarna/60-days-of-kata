@@ -44,8 +44,9 @@ Problems will be listed by name following no particular order.
 34. [Fix string case](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/fix-string-case.md)
 35. [Indexed capitalization](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/indexed-capitalization.md)
 36. [Josephus survivor](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/josephus-survivor.md)
-37. Arithmetic progression
+37. [Arithmetic progression]()
 38. Trimming a string
 39. Hanoi Record
 40. String ends with?
 41. Find the index of the second occurrence of a letter in a string
+42. The mark of zorro
