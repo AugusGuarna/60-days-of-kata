@@ -48,7 +48,7 @@ Problems will be listed by name following no particular order.
 38. [Trimming a string](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/trimming-a-string.md)
 39. [Hanoi Record](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/hanoi-record.md)
 40. [String ends with?](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/string-ends-with.md)
-41. [Find the index of the second occurrence of a letter in a string]()
+41. [Find the index of the second occurrence of a letter in a string](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/find-the-index-of-the-second-ocurrence-of-a-string.md)
 42. The mark of zorro
 43. Previous multiples of three
 44. Playing with digits
