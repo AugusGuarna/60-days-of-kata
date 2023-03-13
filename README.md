@@ -52,9 +52,9 @@ Problems will be listed by name following no particular order.
 42. [The mark of zorro](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/the-mark-of-zorro.md)
 43. [Previous multiples of three](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/previous-multiples-of-three.md)
 44. [Playing with digits](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/playing-with-digits.md)
-45. Dots on domino´s bone
+45. [Dots on domino´s bone]()
 46. Basic encryption 
 47. Convert string to camel case
 48. Digit * digit
 49. Product Array (Array Series #5)
-50. 
+50. Buses!
