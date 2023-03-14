@@ -58,3 +58,4 @@ Problems will be listed by name following no particular order.
 48. Digit * digit
 49. Product Array (Array Series #5)
 50. Buses!
+51. Remove string spaces
