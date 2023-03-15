@@ -60,4 +60,4 @@ Problems will be listed by name following no particular order.
 50. Buses!
 51. Remove string spaces
 52. Count the number of cubes with paint on
-53. https://www.codewars.com/kata/6409aa6df4a0b773ce29cc3d
+53. Mysterious Singularity Numbers
