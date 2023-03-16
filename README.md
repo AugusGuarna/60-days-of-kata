@@ -55,7 +55,7 @@ Problems will be listed by name following no particular order.
 45. [Dots on domino´s bone](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/dots-on-dominos-bone.md)
 46. [Basic encryption](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/basic-encryption.md)
 47. [Convert string to camel case](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/convert-string-to-camel-case.md)
-48. [Digit * digit]()
+48. [Digit * digit](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/digit-digit.md)
 49. Product Array (Array Series #5)
 50. Buses!
 51. Remove string spaces
