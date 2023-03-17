@@ -56,7 +56,7 @@ Problems will be listed by name following no particular order.
 46. [Basic encryption](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/basic-encryption.md)
 47. [Convert string to camel case](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/convert-string-to-camel-case.md)
 48. [Digit * digit](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/digit-digit.md)
-49. [Product Array (Array Series #5)]()
+49. [Product Array (Array Series #5)](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/product-array-Array-Series-5.md)
 50. Buses!
 51. Remove string spaces
 52. Count the number of cubes with paint on
