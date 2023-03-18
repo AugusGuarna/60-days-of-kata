@@ -57,7 +57,7 @@ Problems will be listed by name following no particular order.
 47. [Convert string to camel case](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/convert-string-to-camel-case.md)
 48. [Digit * digit](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/digit-digit.md)
 49. [Product Array (Array Series #5)](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/product-array-Array-Series-5.md)
-50. Buses!
+50. [Buses!](https://github.com/AugusGuarna/60-days-of-kata/blob/main/Solutions/buses.md)
 51. Remove string spaces
 52. Count the number of cubes with paint on
 53. Mysterious Singularity Numbers
