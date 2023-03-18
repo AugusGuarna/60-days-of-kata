@@ -63,4 +63,5 @@ Problems will be listed by name following no particular order.
 53. Mysterious Singularity Numbers
 54. Simple string reversal
 55. The wheat/rice and chessboard problem
-56. 
+56. Halving sum
+57. 
